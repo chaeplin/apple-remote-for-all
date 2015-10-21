@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 * apple remote for all
 
 ### To control LGTV, OllehTV, and AppleTV using apple remote ###
@@ -17,13 +16,3 @@
 - change tv volume
 - change channel
 - select OllehTV menu
-=======
-To control LGTV, OllehTV, and AppleTV using apple remote
-
-########
--LGTV - IR + Network
-
--OlleTV - Network
-
--AppleTV - IR
->>>>>>> origin/master
