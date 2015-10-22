@@ -16,3 +16,8 @@
 - change tv volume
 - change channel
 - select OllehTV menu
+
+
+### Ref ###
+- https://hifiduino.wordpress.com/apple-aluminum-remote/
+- http://hackaday.com/2015/03/12/control-anything-with-an-apple-remote/
