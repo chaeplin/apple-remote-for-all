@@ -2,7 +2,7 @@
 
 ### To control LGTV, OllehTV, and AppleTV using apple remote ###
 - apple remote 3rd gen
-- esp12 + ir rx/tx + i2c lcd
+- esp12 + ir rx/tx + i2c lcd + pro mini
 - mqtt + mqttwarn
 - LG smart TV
 - OllehTV STB
